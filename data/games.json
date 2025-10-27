@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "",
+  "source": "init",
+  "rows": [
+    {
+      "id": "DEMO-001",
+      "title": "バハムートラグーン",
+      "platform": "SFC",
+      "genre": "RPG",
+      "ownedStatus": "Physical",
+      "condition": "Used-A",
+      "acquiredAt": "2024-05-03",
+      "priceJpy": 1980,
+      "tags": ["Square", "名作"],
+      "notes": "箱・説明書あり"
+    }
+  ]
+}
